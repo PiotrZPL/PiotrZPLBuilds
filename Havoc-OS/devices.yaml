@@ -1,0 +1,10 @@
+- name: Xiaomi Mi 10T / Mi 10T Pro / Redmi K30S Ultra
+  codename: apollo
+  extended_codename: xiaomi-apollo
+  builds:
+    - version: "6.0"
+      build_date: 24.07.2023
+      file_name: Havoc-OS-v6.0-20230724-apollo-Unofficial-GApps.zip
+    - version: "6.0"
+      build_date: 19.07.2023
+      file_name: Havoc-OS-v6.0-20230719-apollon-Unofficial-GApps.zip
