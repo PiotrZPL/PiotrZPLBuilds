@@ -8,6 +8,7 @@
       kernel_version: "4.19.246"
       build_date: 23.07.2023
       file_name: awaken-3.8-triton_void-apollo-unofficial-1801-20230723.zip
+      direct_download: true
     - version: "3.8"
       version_name: "Awaken 3.8 | triton_void"
       android_version: "13"
