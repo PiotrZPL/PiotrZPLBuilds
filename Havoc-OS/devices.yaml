@@ -4,7 +4,7 @@
   device_repository_name: PiotrZPL/device_xiaomi_apollo
   device_repository_link: https://github.com/PiotrZPL/device_xiaomi_apollo/tree/havoc-13
   builds:
-  - version: "6.0"
+    - version: "6.0"
       version_name: "Havoc-OS 6.0"
       android_version: "13"
       kernel_version: "4.19.246"
