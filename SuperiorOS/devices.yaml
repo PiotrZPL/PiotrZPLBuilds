@@ -1,6 +1,8 @@
 - name: Xiaomi Mi 10T / Mi 10T Pro / Redmi K30S Ultra
   codename: apollo
   extended_codename: xiaomi-apollo
+  device_repository_name: PiotrZPL/device_xiaomi_apollo
+  device_repository_link: https://github.com/PiotrZPL/device_xiaomi_apollo/tree/superior-13
   builds:
     - version: "13"
       version_name: "SuperiorOS Thirteen (GAPPS)"

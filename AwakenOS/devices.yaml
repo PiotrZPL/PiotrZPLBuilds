@@ -1,6 +1,8 @@
 - name: Xiaomi Mi 10T / Mi 10T Pro / Redmi K30S Ultra
   codename: apollo
   extended_codename: xiaomi-apollo
+  device_repository_name: PiotrZPL/device_xiaomi_apollo
+  device_repository_link: https://github.com/PiotrZPL/device_xiaomi_apollo/tree/awaken-13
   builds:
     - version: "3.8"
       version_name: "Awaken 3.8 | triton_void"
