@@ -10,6 +10,7 @@
       kernel_version: "4.19.246"
       build_date: 28.07.2023
       file_name: awaken-3.8-triton_void-apollo-unofficial-1948-20230728.zip
+      sha256: ed0e0ff110a2e4aa90494451c41cf7b65f3772a4a3e72706176fba371a4b10cc
       direct_download: true
       sourceforge_link: https://sourceforge.net/projects/piotrzplbuilds/files/AwakenOS/apollo/GAPPS/awaken-3.8-triton_void-apollo-unofficial-1948-20230728.zip/download
     - version: "3.8"
@@ -18,6 +19,7 @@
       kernel_version: "4.19.246"
       build_date: 23.07.2023
       file_name: awaken-3.8-triton_void-apollo-unofficial-1801-20230723.zip
+      sha256: 5ce5d0a76e1611ddc7ac74c46285514f594c609ff1783c27c7094d4ef9d8d69f
       direct_download: true
       sourceforge_link: https://sourceforge.net/projects/piotrzplbuilds/files/AwakenOS/apollo/GAPPS/awaken-3.8-triton_void-apollo-unofficial-1801-20230723.zip/download
     - version: "3.8"
@@ -26,4 +28,5 @@
       kernel_version: "4.19.246"
       build_date: 21.07.2023
       file_name: awaken-3.8-triton_void-apollo-unofficial-1815-20230721.zip
+      sha256: 6f8f02cbcf9a12878ba5d286e74c37b5dd9ac8b31434c51ed199e5958c68b7ef
       sourceforge_link: https://sourceforge.net/projects/piotrzplbuilds/files/AwakenOS/apollo/GAPPS/awaken-3.8-triton_void-apollo-unofficial-1815-20230721.zip/download
