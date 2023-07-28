@@ -1,0 +1,13 @@
+- name: Xiaomi Mi 10T / Mi 10T Pro / Redmi K30S Ultra
+  codename: apollo
+  extended_codename: xiaomi-apollo
+  builds:
+    - version: "13"
+      build_date: 23.07.2023
+      file_name: SuperiorOS-Thirteen-apollo-GAPPS-COMMUNITY-20230723-2121.zip
+    - version: "13"
+      build_date: 18.07.2023
+      file_name: SuperiorOS-Thirteen-apollo-GAPPS-COMMUNITY-20230718-1522.zip
+    - version: "13"
+      build_date: 14.07.2023
+      file_name: SuperiorOS-Thirteen-apollo-GAPPS-COMMUNITY-20230714-1555.zip
