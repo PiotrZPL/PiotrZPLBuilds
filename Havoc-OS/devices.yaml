@@ -19,6 +19,7 @@
       kernel_version: "4.19.246"
       build_date: 24.07.2023
       file_name: Havoc-OS-v6.0-20230724-apollo-Unofficial-GApps.zip
+      sha256: 82b64967b05ada17cac08828dedb560c7d9c4ce283c94f129d994de5771319e2
       direct_download: true
       sourceforge_link: https://sourceforge.net/projects/piotrzplbuilds/files/HavocOS/apollo/GAPPS/Havoc-OS-v6.0-20230724-apollo-Unofficial-GApps.zip/download
     - version: "6.0"
@@ -27,4 +28,5 @@
       kernel_version: "4.19.246"
       build_date: 19.07.2023
       file_name: Havoc-OS-v6.0-20230719-apollon-Unofficial-GApps.zip
+      sha256: f778d7edfdefad5817aaa421e517f735b666e9b9dcade00fcfbf2985260f3a54
       sourceforge_link: https://sourceforge.net/projects/piotrzplbuilds/files/HavocOS/apollo/GAPPS/Havoc-OS-v6.0-20230719-apollon-Unofficial-GApps.zip/download
