@@ -3,8 +3,14 @@
   extended_codename: xiaomi-apollo
   builds:
     - version: "3.8"
+      version_name: "Awaken 3.8 | triton_void"
+      android_version: "13"
+      kernel_version: "4.19.246"
       build_date: 23.07.2023
       file_name: awaken-3.8-triton_void-apollo-unofficial-1801-20230723.zip
     - version: "3.8"
+      version_name: "Awaken 3.8 | triton_void"
+      android_version: "13"
+      kernel_version: "4.19.246"
       build_date: 21.07.2023
       file_name: awaken-3.8-triton_void-apollo-unofficial-1815-20230721.zip

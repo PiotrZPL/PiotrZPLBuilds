@@ -3,11 +3,20 @@
   extended_codename: xiaomi-apollo
   builds:
     - version: "13"
+      version_name: "SuperiorOS Thirteen (GAPPS)"
+      android_version: "13"
+      kernel_version: "4.19.246"
       build_date: 23.07.2023
       file_name: SuperiorOS-Thirteen-apollo-GAPPS-COMMUNITY-20230723-2121.zip
     - version: "13"
+      version_name: "SuperiorOS Thirteen (GAPPS)"
+      android_version: "13"
+      kernel_version: "4.19.246"
       build_date: 18.07.2023
       file_name: SuperiorOS-Thirteen-apollo-GAPPS-COMMUNITY-20230718-1522.zip
     - version: "13"
+      version_name: "SuperiorOS Thirteen (GAPPS)"
+      android_version: "13"
+      kernel_version: "4.19.246"
       build_date: 14.07.2023
       file_name: SuperiorOS-Thirteen-apollo-GAPPS-COMMUNITY-20230714-1555.zip

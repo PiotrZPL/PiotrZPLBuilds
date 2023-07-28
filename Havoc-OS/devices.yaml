@@ -3,8 +3,14 @@
   extended_codename: xiaomi-apollo
   builds:
     - version: "6.0"
+      version_name: "Havoc-OS 6.0"
+      android_version: "13"
+      kernel_version: "4.19.246"
       build_date: 24.07.2023
       file_name: Havoc-OS-v6.0-20230724-apollo-Unofficial-GApps.zip
     - version: "6.0"
+      version_name: "Havoc-OS 6.0"
+      android_version: "13"
+      kernel_version: "4.19.246"
       build_date: 19.07.2023
       file_name: Havoc-OS-v6.0-20230719-apollon-Unofficial-GApps.zip
