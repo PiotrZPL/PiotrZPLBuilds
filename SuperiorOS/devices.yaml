@@ -10,6 +10,7 @@
       kernel_version: "4.19.246"
       build_date: 31.07.2023
       file_name: SuperiorOS-Thirteen-apollo-GAPPS-COMMUNITY-20230731-0859.zip
+      sha256: 21834084d5dc8e06c91293515e47ae5b61f10b8e8f4962d00226e1246b8c953a
       direct_download: true
       sourceforge_link: https://sourceforge.net/projects/piotrzplbuilds/files/SuperiorOS/apollo/GAPPS/SuperiorOS-Thirteen-apollo-GAPPS-COMMUNITY-20230731-0859.zip/download
     - version: "13"
@@ -18,6 +19,7 @@
       kernel_version: "4.19.246"
       build_date: 31.07.2023
       file_name: SuperiorOS-Thirteen-apollo-COMMUNITY-20230731-0828.zip
+      sha256: 63b487f117a73be1bab2e58d331fbed18298da5b1e09d00661d9441a1a26e5ae
       direct_download: true
       sourceforge_link: https://sourceforge.net/projects/piotrzplbuilds/files/SuperiorOS/apollo/VANILLA/SuperiorOS-Thirteen-apollo-COMMUNITY-20230731-0828.zip/download
     - version: "13"
