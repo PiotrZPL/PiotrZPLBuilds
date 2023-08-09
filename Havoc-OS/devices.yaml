@@ -8,6 +8,15 @@
       version_name: "Havoc-OS 6.0"
       android_version: "13"
       kernel_version: "4.19.246"
+      build_date: 09.08.2023
+      file_name: Havoc-OS-v6.0-20230809-apollo-Unofficial-GApps.zip
+      sha256: b722d5fdc5247fccf1b59fd886556cd8419db710ef58b340590487b42c7e0714
+      direct_download: true
+      sourceforge_link: https://sourceforge.net/projects/piotrzplbuilds/files/HavocOS/apollo/GAPPS/Havoc-OS-v6.0-20230809-apollo-Unofficial-GApps.zip/download
+    - version: "6.0"
+      version_name: "Havoc-OS 6.0"
+      android_version: "13"
+      kernel_version: "4.19.246"
       build_date: 28.07.2023
       file_name: Havoc-OS-v6.0-20230728-apollo-Unofficial-GApps.zip
       sha256: bc1c0c4dace665a76db6df1e5fa77cf437bc651b045795b38215756b83f02435
