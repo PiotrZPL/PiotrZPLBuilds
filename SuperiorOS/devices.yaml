@@ -8,6 +8,24 @@
       version_name: "SuperiorOS Thirteen (GAPPS)"
       android_version: "13"
       kernel_version: "4.19.246"
+      build_date: 11.08.2023
+      file_name: SuperiorOS-Thirteen-apollo-GAPPS-COMMUNITY-20230811-0908.zip
+      sha256: 30bfbae989810f5adbcf77f6b6d36c602f30ac0fef63e805be4f9bfa881801ec
+      direct_download: true
+      sourceforge_link: https://sourceforge.net/projects/piotrzplbuilds/files/SuperiorOS/apollo/GAPPS/SuperiorOS-Thirteen-apollo-GAPPS-COMMUNITY-20230811-0908.zip/download
+    - version: "13"
+      version_name: "SuperiorOS Thirteen (VANILLA)"
+      android_version: "13"
+      kernel_version: "4.19.246"
+      build_date: 11.08.2023
+      file_name: SuperiorOS-Thirteen-apollo-COMMUNITY-20230811-0627.zip
+      sha256: fdb4ab6757bfcd649e936175f5e806e99d81b7801dd3c9958c9010f62cb3f8a2
+      direct_download: true
+      sourceforge_link: https://sourceforge.net/projects/piotrzplbuilds/files/SuperiorOS/apollo/VANILLA/SuperiorOS-Thirteen-apollo-COMMUNITY-20230811-0627.zip/download
+    - version: "13"
+      version_name: "SuperiorOS Thirteen (GAPPS)"
+      android_version: "13"
+      kernel_version: "4.19.246"
       build_date: 31.07.2023
       file_name: SuperiorOS-Thirteen-apollo-GAPPS-COMMUNITY-20230731-0859.zip
       sha256: 21834084d5dc8e06c91293515e47ae5b61f10b8e8f4962d00226e1246b8c953a
